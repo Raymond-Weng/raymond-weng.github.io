@@ -4,12 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Raymond Weng (翁宇鴻)
-Competitive Programming Player | Java Developer | Student of DTSH  
-Video Editor | Martial Art Player
-
-## About Me
-
 我是臺北市立大同高中學生，喜歡電腦、程式之類的，就是天賦點跑到了很多神奇的地方。  
 
 ## Bio
