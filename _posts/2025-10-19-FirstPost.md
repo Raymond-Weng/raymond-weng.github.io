@@ -1,0 +1,21 @@
+---
+title: 第一篇貼文...聽說一定要有Hello World
+date: 2025-10-19 07:40:00 +0800
+categories: [Code, ZeroJudge]
+tags: [ZeroJudge]     # TAG names should always be lowercase
+---
+
+嗨，主要是看到了好像很多人都有在寫blog，剛好準備要特選抓個模板來用
+
+---
+
+先進正題  
+Zerojudge a001.哈囉 AC (15ms, 3MB)
+```py
+print("hello,", input())
+```
+解題思路大概是Python的print逗點分開之後會自己加上空格，就不用處理空格啦
+
+---
+
+順便分享找到的模板，這裡有[官方showcase](https://chirpy.cotes.page)（雖然這裡本身就是了...）還有官方的[template](https://github.com/cotes2020/chirpy-starter)
