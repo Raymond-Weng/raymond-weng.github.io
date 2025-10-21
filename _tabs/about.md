@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 我是臺北市立大同高中學生，喜歡電腦、程式之類的，就是天賦點跑到了很多神奇的地方。  

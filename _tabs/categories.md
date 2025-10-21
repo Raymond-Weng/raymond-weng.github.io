@@ -1,5 +1,5 @@
 ---
 layout: categories
-icon: fas fa-stream
-order: 2
+icon: fas fa-archive
+order: 3
 ---
