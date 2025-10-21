@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 我是臺北市立大同高中學生，喜歡電腦、程式之類的，就是天賦點跑到了很多神奇的地方。  
@@ -11,10 +11,7 @@ order: 4
 臺北市立大同高級中學(DTSH) 2023 - NOW  
 臺北市立敦化國民中學(THJH) 2020 - 2023
 
-## Best Projects
-
-- [JGame Library Lite](https://github.com/Raymond-Weng/JGame-Library-Lite): Java的PyGame
-- [rwlink](https://github.com/Raymond-Weng/New-Short-Link): 結合Discord bot和網站的短網址系統
+---
 
 ## Experiences
 ### 程式設計
@@ -35,11 +32,15 @@ order: 4
 ### 其他
 2023.09.15\~2025.01.20 臺北市立大同高中校級幹部文書組組員  
 
+---
+
 ## Verification
 
 APCS 觀念4 實作3  
 TOEIC 790分藍色證書  
 全民英檢中級通過  
+
+---
 
 ## Contests
 ### 程式設計
@@ -65,9 +66,13 @@ TOEIC 790分藍色證書
 ***2025 - 臺北市立大同高級中學114學年度第二十屆榕數盃數學競賽 佳作 rk.5/81***  
 ***2024 - 校內國語文競賽 演說 rk.2***  
 
+---
+
 ## Leetcode progress...
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/RaymondWeng?theme=dark&font=baloo&extension=activity)
+
+---
 
 ## Tools / Skills
 
