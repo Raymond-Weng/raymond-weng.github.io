@@ -6,7 +6,7 @@ tags: [cpp, std, tutorial]     # TAG names should always be lowercase
 description: "寫Leetcode用到的小方法，稍微記錄一下"
 ---
 
-> 本文介紹`std::optional`，為C++17開始的功能，另在C++23, C++26都有做更新，有興趣的讀者
+> 本文介紹`std::optional`，為C++17開始的功能，另在C++23, C++26都有做更新，有興趣的讀者歡迎透過網路資源深度研究
 
 之前寫Java為主，在Java上常常在找不到值的時後直接`return null;`並用`if(f()==null)`直接檢查，但是在C++裡面並沒有這個功能，但相對的就出現了`optional`來補足了。
 
